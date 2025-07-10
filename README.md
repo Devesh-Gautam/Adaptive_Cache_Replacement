@@ -15,7 +15,7 @@ The ultimate goal is to explore and implement **ARC** as proposed in the origina
 
 ---
 
-## 📌 Objective
+## 📌 Objectives
 
 This project was undertaken as part of the **core Data Structures and Algorithms course**, aimed at:
 
